@@ -22,3 +22,8 @@ python -m pytest
 ## Équipe
 - Mohamed — mainteneur du dépôt vertifarm-shop
 ```
+
+## Équipe
+- Wassim
+- Mohamed
+- Abderrahim
