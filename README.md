@@ -18,4 +18,7 @@ Affiche le Green Score de chaque ferme en interrogeant `green-score`.
 pip install -r requirements.txt
 uvicorn app.main:app --port 8000
 python -m pytest
+
+## Équipe
+- Mohamed — mainteneur du dépôt vertifarm-shop
 ```
