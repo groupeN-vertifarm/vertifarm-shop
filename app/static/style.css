@@ -1,4 +1,4 @@
-:root { --green: #2e7d32; --bg: #f3f7f2; --card: #ffffff; --ink: #1c2b1a; }
+:root { --green: #00695c; --bg: #f3f7f2; --card: #ffffff; --ink: #1c2b1a; }
 * { box-sizing: border-box; }
 body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
        margin: 0; background: var(--bg); color: var(--ink); }
